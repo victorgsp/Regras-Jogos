@@ -55,16 +55,16 @@ Um jogador pode escolher qualquer ação que desejar e puder pagar. Algumas aç�
 
 #### B. Ações de Personagem (Se desafiado, o jogador deve mostrar que influencia o personagem relevante)
 - **Duque - Taxar:**
-- ![image](https://github.com/victorgsp/Regras-Jogos/assets/8069168/cbac5182-6c2c-47da-be76-4172b39a464e)
+![image](https://github.com/victorgsp/Regras-Jogos/assets/8069168/cbac5182-6c2c-47da-be76-4172b39a464e)
 - Pegue 3 moedas do Tesouro.
 - **Assassino - Assassinar:**
-- ![image](https://github.com/victorgsp/Regras-Jogos/assets/8069168/bcadfe12-e199-4393-9fac-9a4f30ac44c3)
+![image](https://github.com/victorgsp/Regras-Jogos/assets/8069168/bcadfe12-e199-4393-9fac-9a4f30ac44c3)
 - Pague 3 moedas ao Tesouro e lance um assassinato contra outro jogador. Se bem-sucedido, esse jogador perde imediatamente uma influência. (Pode ser bloqueado pela Condessa)
 - **Capitão - Roubar:**
-- ![image](https://github.com/victorgsp/Regras-Jogos/assets/8069168/214b52e6-d7d3-4d84-a71f-92aad44f67f5)
+![image](https://github.com/victorgsp/Regras-Jogos/assets/8069168/214b52e6-d7d3-4d84-a71f-92aad44f67f5)
 - Pegue 2 moedas de outro jogador. Se ele tiver apenas uma moeda, pegue apenas uma. (Pode ser bloqueado pelo Embaixador ou pelo Capitão)
 - **Embaixador - Trocar:**
-- ![image](https://github.com/victorgsp/Regras-Jogos/assets/8069168/3129f9a6-0b90-47e5-afa4-96be21812e8e)
+![image](https://github.com/victorgsp/Regras-Jogos/assets/8069168/3129f9a6-0b90-47e5-afa4-96be21812e8e)
 - Troque cartas com a Corte. Primeiro pegue 2 cartas aleatórias do Baralho da Corte. Escolha quais, se houver, deseja trocar com suas cartas viradas para baixo. Em seguida, devolva duas cartas ao Baralho da Corte.
 
 #### C. Contra-ações
