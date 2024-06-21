@@ -55,28 +55,28 @@ Um jogador pode escolher qualquer ação que desejar e puder pagar. Algumas aç�
 
 #### B. Ações de Personagem (Se desafiado, o jogador deve mostrar que influencia o personagem relevante)
 - **Duque - Taxar:**
-![image](https://github.com/victorgsp/Regras-Jogos/assets/8069168/cbac5182-6c2c-47da-be76-4172b39a464e)
+ ![image](https://github.com/victorgsp/Regras-Jogos/assets/8069168/cbac5182-6c2c-47da-be76-4172b39a464e)
 - Pegue 3 moedas do Tesouro.
 - **Assassino - Assassinar:**
-![image](https://github.com/victorgsp/Regras-Jogos/assets/8069168/bcadfe12-e199-4393-9fac-9a4f30ac44c3)
+ ![image](https://github.com/victorgsp/Regras-Jogos/assets/8069168/bcadfe12-e199-4393-9fac-9a4f30ac44c3)
 - Pague 3 moedas ao Tesouro e lance um assassinato contra outro jogador. Se bem-sucedido, esse jogador perde imediatamente uma influência. (Pode ser bloqueado pela Condessa)
 - **Capitão - Roubar:**
-![image](https://github.com/victorgsp/Regras-Jogos/assets/8069168/214b52e6-d7d3-4d84-a71f-92aad44f67f5)
+ ![image](https://github.com/victorgsp/Regras-Jogos/assets/8069168/214b52e6-d7d3-4d84-a71f-92aad44f67f5)
 - Pegue 2 moedas de outro jogador. Se ele tiver apenas uma moeda, pegue apenas uma. (Pode ser bloqueado pelo Embaixador ou pelo Capitão)
 - **Embaixador - Trocar:**
-![image](https://github.com/victorgsp/Regras-Jogos/assets/8069168/3129f9a6-0b90-47e5-afa4-96be21812e8e)
+ ![image](https://github.com/victorgsp/Regras-Jogos/assets/8069168/3129f9a6-0b90-47e5-afa4-96be21812e8e)
 - Troque cartas com a Corte. Primeiro pegue 2 cartas aleatórias do Baralho da Corte. Escolha quais, se houver, deseja trocar com suas cartas viradas para baixo. Em seguida, devolva duas cartas ao Baralho da Corte.
 
 #### C. Contra-ações
 Contra-ações podem ser realizadas por outros jogadores para intervir ou bloquear a ação de um jogador. Contra-ações operam como ações de personagens. Os jogadores podem alegar influenciar qualquer um dos personagens e usar suas habilidades para contra-atacar outro jogador. Eles podem estar dizendo a verdade ou blefando. Não precisam mostrar nenhuma carta, a menos que sejam desafiados. Contra-ações podem ser desafiadas, mas se não forem desafiadas, elas são automaticamente bem-sucedidas. Se uma ação for contra-atacada com sucesso, a ação falha, mas quaisquer moedas pagas como custo da ação permanecem gastas.
 - **Duque - Bloqueia Ajuda Estrangeira:**
-- ![image](https://github.com/victorgsp/Regras-Jogos/assets/8069168/f91c7079-66a8-48c1-acbe-9c57690bc41f)
+ ![image](https://github.com/victorgsp/Regras-Jogos/assets/8069168/f91c7079-66a8-48c1-acbe-9c57690bc41f)
 - Qualquer jogador alegando ser o Duque pode contra-atacar e bloquear um jogador tentando coletar ajuda estrangeira. O jogador tentando ganhar ajuda estrangeira não recebe moedas naquele turno.
 - **Condessa - Bloqueia Assassinato:**
-- ![image](https://github.com/victorgsp/Regras-Jogos/assets/8069168/bbcb71ed-4707-4987-92f7-6e5ae33d2f87)
+ ![image](https://github.com/victorgsp/Regras-Jogos/assets/8069168/bbcb71ed-4707-4987-92f7-6e5ae33d2f87)
 - O jogador que está sendo assassinado pode alegar ser a Condessa e contra-atacar para bloquear o assassinato. O assassinato falha, mas a taxa paga pelo jogador para o assassino permanece gasta.
 - **Embaixador/Capitão - Bloqueia Roubo:**
-- ![image](https://github.com/victorgsp/Regras-Jogos/assets/8069168/22a59a2d-a9b1-4fdd-aa4c-29b8e7d6efd1)
+ ![image](https://github.com/victorgsp/Regras-Jogos/assets/8069168/22a59a2d-a9b1-4fdd-aa4c-29b8e7d6efd1)
 - O jogador que está sendo roubado pode alegar ser o Embaixador ou o Capitão e contra-atacar para bloquear o roubo. O jogador tentando roubar não recebe moedas naquele turno.
 
 ### 8. DESAFIOS
